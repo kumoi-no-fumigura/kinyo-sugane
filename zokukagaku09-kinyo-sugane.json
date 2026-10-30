@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kinyo-sugane",
  "yomi": "きんようすがねしゅう",
  "category": "私撰集",
- "description": null,
+ "description": {
+  "kind": "私撰集（長歌）",
+  "era": "文化12年（1815）頃",
+  "author": "撰者 清水浜臣（1776〜1824）",
+  "desc": "近世の歌人たちの長歌を集めた撰集。古今集の後に長歌が衰えたことを嘆き、近世に古風が戻ったことを序で述べる。契沖・賀茂真淵・本居宣長らの作を収める。"
+ },
  "editions": [
   {
    "pid": "993387",
